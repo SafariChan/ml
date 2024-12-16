@@ -1,0 +1,13 @@
+credit_card_fraud_detection/
+├── data/
+│   └── creditcard.csv
+├── src/
+│   ├── data_preprocessing.py
+│   ├── train_model.py
+│   └── predict_api.py
+├── models/
+│   ├── fraud_model.pkl
+│   └── scaler.pkl
+├── requirements.txt
+├── .gitignore
+├── README.md
